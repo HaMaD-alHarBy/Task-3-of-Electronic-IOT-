@@ -103,3 +103,9 @@
 - Double-check polarities on battery, capacitor, diode, and PIR sensor — reversing them may damage components.
 
 - Always use a flyback diode across the relay coil to protect your transistor and Arduino from voltage spikes.
+
+- Use resistors with LEDs and transistor base to prevent overcurrent.
+
+- Avoid touching live wires while powered even low voltage can short components if mishandled.
+
+- Secure all connections on the breadboard tightly loose wires can cause unexpected behavior.
