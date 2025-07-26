@@ -35,6 +35,10 @@
 
 ## Circuit Wiring
 
+
+<img width="2330" height="1274" alt="Screenshot 2025-07-27 001242" src="https://github.com/user-attachments/assets/1ecd98f4-658d-4b9f-977c-6c4d01d25e3e" />
+
+
 ## Power & Control Wiring
 - 5V Power Supply
 - Branches to:
